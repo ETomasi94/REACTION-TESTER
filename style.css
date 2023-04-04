@@ -1,0 +1,17 @@
+body{
+    font-family: 'Nerko One',cursive;
+}
+
+#Shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.bold{
+    font-weight: 900;
+}
